@@ -1,6 +1,15 @@
 # CoreStore Homepage
 
-Contains general desription of the shopping system and developer documentation.
+Contains general description of the shopping system and developer documentation.
+
+## About CoreStore
+
+eCommerce Framework written in [GoLang](http://golang.org) based on Magento's database structure. 
+100% compatible to Magento 1 and 2.
+
+For more details: [http://corestore.io](http://corestore.io)
+
+Magento is a trademark of [MAGENTO, INC.](http://www.magentocommerce.com/license/).
 
 ## Contributing
 

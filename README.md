@@ -5,7 +5,6 @@ Contains general description of the shopping system and developer documentation.
 ## About CoreStore
 
 eCommerce Framework written in [GoLang](http://golang.org) based on Magento's database structure. 
-100% compatible to Magento 1 and 2.
 
 For more details: [http://corestore.io](http://corestore.io)
 
@@ -22,4 +21,4 @@ CoreStore is licensed under the Apache License, Version 2.0. See
 
 ## Copyright
 
-[Cyrill Schumacher](http://cyrillschumacher.com) - [PGP Key](https://keybase.io/cyrill)
+[Cyrill Schumacher](https://cyrillschumacher.com) - [PGP Key](https://keybase.io/cyrill)

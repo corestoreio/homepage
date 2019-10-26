@@ -4,7 +4,8 @@ Contains general description of the shopping system and developer documentation.
 
 ## About CoreStore
 
-eCommerce Framework written in [GoLang](http://golang.org) based on Magento's database structure. 
+eCommerce Framework written in [GoLang](http://golang.org) based on Magento's
+database structure.
 
 For more details: [http://corestore.io](http://corestore.io)
 
@@ -12,7 +13,8 @@ Magento is a trademark of [MAGENTO, INC.](http://www.magentocommerce.com/license
 
 ## Contributing
 
-Please have a look at the [contribution guidelines](https://github.com/corestoreio/corestore/blob/master/CONTRIBUTING.md).
+Please have a look at the [contribution
+guidelines](https://github.com/corestoreio/corestore/blob/master/CONTRIBUTING.md).
 
 ## Licensing
 

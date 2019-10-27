@@ -1,30 +1,8 @@
 [build]
 publish = "public"
-command = ""
+command = "cp -R browserconfig.xml assets images favicon.ico index.html github-btn.html manifest.json public/"
 
 [context.production.environment]
 HUGO_VERSION = "0.58.3"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = ""
-
-[context.split1.environment]
-HUGO_VERSION = "0.58.3"
-HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = ""
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.58.3"
-
-[context.branch-deploy]
-command = ""
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "ç"
-
-[context.next.environment]
 HUGO_ENABLEGITINFO = "true"

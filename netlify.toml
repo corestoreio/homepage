@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "cp -R browserconfig.xml assets images favicon.ico index.html github-btn.html manifest.json public/"
+command = "mkdir -v public && cp -vR browserconfig.xml assets images favicon.ico index.html github-btn.html manifest.json public/"
 
 [context.production.environment]
 HUGO_VERSION = "0.58.3"
